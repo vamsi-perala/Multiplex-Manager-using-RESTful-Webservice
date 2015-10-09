@@ -1,7 +1,8 @@
 # Multiplex-Manager-using-RESTful-Webservice
 
-The detail project report is present in the Git Repository. This is a summary of the project.
+The detail project report is present in the Git Repository. The instructions to execute are present in the document, ReadmeBVV.pdf" 
 
+**Summary**:
 This application is intended to facilitate users to book movie tickets that are screened in the multiplex "BVV". The multiplex BVV has a fixed number of screens and movies are screened in them at various show times in a day.
 The application offers the following options to the user:
 *List available movies*
