@@ -13,10 +13,10 @@ The 3 services, *Listing all the available movies, Making Reservation of Tickets
 
 ###Technology Stack
 
- *Client*
+ **Client**
 The client module has been developed using JAVA. The view model is rendered using JSPs. The client side validations are done using JAVASCRIPT.
 
- *Server:*
+ **Server:**
 Web Services
 The web services are developed in Representational state transfer (REST) architectural style.
 The web services have been developed in JAVA Spring framework in tandem with Apache CXF API which provides the required JAX-RS API support.
